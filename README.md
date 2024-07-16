@@ -1,3 +1,3 @@
 This is a README file!
 
-This is a new line.
+Αυτή είναι μια καινούργια γραμμή!
